@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sobre mim:<br><br>-Adoro a linguagem python<br>-Programo desde 2018</p>
+<p align="left">Sobre mim:<br><br>-Programo em python<br>-Programo desde 2018</p>
 
 ###
 
