@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sobre mim:<br><br>-Programo em python<br>-Programo desde 2018</p>
+<p align="left">Sobre mim:<br><br>-Formado em Análise e Desenvolvimento de Sistemas<br>-Programo desde 2018</p><br>-Estudo análise de Dados com Python</p>
 
 ###
 
